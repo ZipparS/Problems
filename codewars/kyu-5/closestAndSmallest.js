@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/reviews/5868b4611ef6921f970001d8/groups/603ba6e8cf94e80001e38673
+
 function  closest(strng) {
     if(!strng.length) return []
     let splittedString = strng.split(' ')
